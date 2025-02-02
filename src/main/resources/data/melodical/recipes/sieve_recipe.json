@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "O/O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "tag": "minecraft:planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "melodical:sieve"
+  }
+}

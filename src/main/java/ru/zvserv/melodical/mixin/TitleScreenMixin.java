@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class TitleScreenMixin {
     @Inject(method = "init", at = @At("TAIL"))
     public void onInit(CallbackInfo ci) {
-        Melodical.LOGGER.info("This line is printed by an example mod mixin!");
+        Melodical.LOGGER.info("This was in the example so i figured i'd live that :)");
     }
 }

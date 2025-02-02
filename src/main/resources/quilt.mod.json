@@ -1,9 +1,9 @@
 {
     "schema_version": 1,
     "quilt_loader": {
-        "group": "${group}",
+        "group": "ru.zvserv",
         "id": "melodical",
-        "version": "${version}",
+        "version": "1.0.0",
         "metadata": {
             "name": "Melodical",
             "description": "My first mod, idk",
@@ -11,7 +11,7 @@
                 "Ewrcraft": "Owner"
             },
             "contact": {},
-            "icon": "assets/example_mod/icon.png",
+            "icon": "assets/melodical/icon.png",
             "license": "MIT"
         },
         "intermediate_mappings": "net.fabricmc:intermediary",
